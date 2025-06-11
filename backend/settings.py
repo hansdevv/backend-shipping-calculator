@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-d*2jtccc5f71db(dav10!jyfnesdh89hb+elpra^@5f5ssepxj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app', 'https://backend-shipping-calculator.vercel.app/']
+ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app', 'https://backend-shipping-calculator.vercel.app']
 
 # Application definition
 
